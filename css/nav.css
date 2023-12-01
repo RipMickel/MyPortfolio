@@ -6,7 +6,7 @@
 
 .nvn {
     background: rgb(89, 20, 20);
-background: linear-gradient(90deg, rgb(233, 99, 229) 0%, rgba(233, 99, 229) 51%, rgba(0, 0, 0, 0.834) 100%);
+background: linear-gradient(90deg, #000000d5 100%, #000000d5 100%, #000000d5 100%);
     padding: 20px; /* Increased padding for a larger navigation bar */
     text-align: right; /* Align the content to the right */
     height: 65px;
@@ -34,7 +34,7 @@ nav::after {
 .navbutton {
     font-weight: bold;
     text-decoration: none;
-    color: #9e42f5;
+    color: #00308F;
     padding: 15px 30px;
     margin: 0 10px 0 20px;
     border-radius: 5px;
@@ -42,7 +42,7 @@ nav::after {
 }
 
 .navbutton:hover {
-    background-color: #000000;
+    background-color: #e6e2e2;
 }
 
 .navbutton {
@@ -53,7 +53,7 @@ nav::after {
     font-weight: bolder;
     margin-left: -100px;
     margin-top: -8px;
-    color: #361342;
+    color: #e7e5e8;
     font-size: x-large;
 }
 
