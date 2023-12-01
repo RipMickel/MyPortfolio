@@ -11,13 +11,17 @@ body {
 
 
 .abt{
-    color: rgb(0, 0, 0);
+    color: #72A0C1;
     transition: transform 0.5s;
+    text-align: center;
+}
+.abtt{
+    text-align: center;
 }
 
 .abt:hover{
     font-size: xx-large;
-    color: #9e42f5;
+    color: #00308F;
 }
 
 .bigsize{
