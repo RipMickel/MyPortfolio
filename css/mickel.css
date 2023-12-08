@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-image: url(https://www.icegif.com/wp-content/uploads/cool-wallpapers-icegif-1.gif);
+    background-image: url(https://img.freepik.com/premium-photo/wave-abstract-purple-wave-animation-seamless-loop-4k-purple-technology-background_518816-3101.jpg?w=1060);
     background-size: cover;
     
     background-repeat: no-repeat; 
@@ -21,7 +21,7 @@ body {
 
 .abt:hover{
     font-size: xx-large;
-    color: #00308F;
+    color: rgb(248, 248, 248);
 }
 
 .bigsize{
@@ -53,4 +53,17 @@ body {
 
   .animation :hover{
     font-size: larger;
+  }
+  .exp{
+    margin-right: 5%; 
+    margin-top: 12%;
+    margin-left: 24%;
+
+  }
+  .hello{
+    color: aqua;
+  }
+
+  .apa{
+    color: #7CFC00;
   }

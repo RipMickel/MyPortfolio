@@ -8,9 +8,9 @@
     background: rgb(89, 20, 20);
 background: linear-gradient(90deg, #000000d5 100%, #000000d5 100%, #000000d5 100%);
     padding: 20px; /* Increased padding for a larger navigation bar */
-    text-align: right; /* Align the content to the right */
-    height: 65px;
-    position: relative; /* Make sure the ::after pseudo-element is positioned relative to the nav */
+    text-align: left; /* Align the content to the left */
+    height: 55px;
+    
 }
 
 .navigation {
@@ -28,7 +28,7 @@ nav::after {
 }
 
 .nav-button-margin {
-    margin-left: 50%;
+    margin-top: -35px;
 }
 
 .navbutton {
@@ -50,11 +50,17 @@ nav::after {
 }
 
 .nvnname {
+    background-image: url(https://i.gifer.com/J59.gif);
     font-weight: bolder;
-    margin-left: -100px;
-    margin-top: -8px;
+    margin-left: 50px;
+    margin-top: 45%;
     color: #e7e5e8;
     font-size: x-large;
+    transition: transform 0.5s;
+}
+.nvnname:hover{
+    font-size: xx-large;
+    color: #008B8B;
 }
 
 .nav_iconsize {
