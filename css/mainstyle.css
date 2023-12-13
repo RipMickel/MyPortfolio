@@ -30,9 +30,12 @@ body {
 
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-right: -150%;
-  margin-left: 220px;
-  padding-left: 10px;
+  margin-right: -990px;
+  margin-left: -590px;
+  padding-left: 1100px;
+  background-image: url(https://i.gifer.com/2iiH.gif);
+  background-size: contain;
+
  
 }
 
